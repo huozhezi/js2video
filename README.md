@@ -6,7 +6,7 @@ Windows:scoop install ffmpeg
 2. 安装Node.js依赖
 npm install
 
-3.使用方法
+3. 使用方法
 node index.js --help
 
 node index.js --svg path/to/your/animation.svg  --scale 1 --duration 10 --fps 30
