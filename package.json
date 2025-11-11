@@ -1,0 +1,13 @@
+{
+  "name": "js2video",
+  "version": "1.0.0",
+  "description": "使用浏览器转换svg为video",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.5.0",
+    "yargs": "^17.7.2"
+  }
+}
